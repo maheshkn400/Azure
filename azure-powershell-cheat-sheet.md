@@ -4,7 +4,8 @@
 
 # Table of Content
 
-[Link](#) 
+Install Azure Powershell on [Windoow](/install-azure-powershell.md#install-azure-powershell-on-windows) , [Linux](/install-azure-powershell.md#install-azure-powershell-on-linux) and [macOS](/install-azure-powershell.md#install-azure-powershell-on-macos)
+
 
 ## Connect, Login and Logout into Azure 
 
