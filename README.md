@@ -6,4 +6,4 @@
 
 ## Table of Index
 
-[Azure Powershell Cheat sheet](/azure-powershell-cheat-sheet.ps1)
+[Azure Powershell Cheat sheet](/azure-powershell-cheat-sheet.md)
