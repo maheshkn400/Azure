@@ -59,9 +59,13 @@ Get-AzResourceLock
 
 New-AzResourceLock -LockName "pscmdrglock" -LockLevel ReadOnly -LockNotes "Creating RG lock via PS shell cmd" -ResourceGroupName "RG-PROJ2"
 
-## modify / change above lock 
+## modify / change above resource group lock 
 
 Set-AzResourceLock -LockName pscmdrglock -LockLevel CanNotDelete -LockNotes "set the lock from ps shell cmd modified from readonly to delete" -ResourceGroupName RG-PROJ2
+
+## Removed Resource group lock 
+
+Remove-AzResourceLock -LockName "locknamehere" -ResourceGroupName "resourcegroup name here"
 
 ### Moving Resources from One Resource Group to Another
 
