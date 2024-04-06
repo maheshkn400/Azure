@@ -24,7 +24,7 @@ Or
 
 Download Powershell from [Microsoft Official website](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.4#installing-the-msi-package)
 
-## Installation
+### Installation
 
 Launch Windows PowerShell 5.1 elevated as an administrator and run the following command to update PowerShellGet:
 
