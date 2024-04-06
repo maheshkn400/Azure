@@ -46,7 +46,7 @@ Use the Install-Module cmdlet to install the Az PowerShell module:
 
 It will take 10 - 15 minutes
 
-## Update the Azure PowerShell module
+### Update the Azure PowerShell module
 
 Use Update-Module to update to the latest version of the Az PowerShell module:
 
@@ -61,13 +61,13 @@ Install a supported version of [PowerShell version 7 or higher](https://learn.mi
 
 Open the Terminal or other shell host application and run pwsh to start PowerShell.
 
-## Installation
+### Installation
 
 Use the Install-Module cmdlet to install the Az PowerShell module:
 
 `Install-Module -Name Az -Repository PSGallery -Force`
 
-## Update the Az PowerShell module
+### Update the Az PowerShell module
 
 Use Update-Module to update to the latest version of the Az PowerShell module:
 
@@ -95,7 +95,7 @@ Use the Update-Module cmdlet to update to the latest version of the Az PowerShel
 `Update-Module -Name Az -Force`
 
 
-### After Installion try to Sign in
+## After Installion try to Sign in
 
 To start managing your Azure resources with the Az PowerShell module, launch a PowerShell session and run Connect-AzAccount to sign in to Azure:
 
