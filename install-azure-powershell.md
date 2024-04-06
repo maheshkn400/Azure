@@ -102,3 +102,5 @@ To start managing your Azure resources with the Az PowerShell module, launch a P
 `Connect-AzAccount`
 
 Use your Azure account login credentials to log into the browser window that opens.
+
+Check out the Azure PowerShell command **[quick reference guide](/azure-powershell-cheat-sheet.md)**.
