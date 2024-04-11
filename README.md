@@ -8,6 +8,7 @@ The Azure cloud platform is more than 200 products and cloud services designed t
 
 ## Table of Index
 
-Install Azure Powershell on [Windoow](/install-azure-powershell.md#install-azure-powershell-on-windows) , [Linux](/install-azure-powershell.md#install-azure-powershell-on-linux) and [macOS](/install-azure-powershell.md#install-azure-powershell-on-macos)
+- Install Azure Powershell on [Windoow](/install-azure-powershell.md#install-azure-powershell-on-windows) , [Linux](/install-azure-powershell.md#install-azure-powershell-on-linux) and [macOS](/install-azure-powershell.md#install-azure-powershell-on-macos)
+- [Azure Powershell command to creation VM with static Private IP](/create-vm-with-static-private-ip%20copy.md)
 
-[Azure Powershell Cheat sheet](/azure-powershell-cheat-sheet.md)
+*__[Azure Powershell Cheat sheet](/azure-powershell-cheat-sheet.md)__*
