@@ -1,4 +1,4 @@
-# Azure using Powershell Create a virtual machine with both private and public IP addresses assigned to a single NIC interface.
+# Azure Powershell command To Create a virtual machine with both private and public IP addresses assigned to a single NIC interface.
 
 ## Creating Resource Group
 
