@@ -13,5 +13,6 @@ The Azure cloud platform is more than 200 products and cloud services designed t
     - [Create VirtualNetwork Peering](/azure-powershell-command-to-create-virtualnetwork-peering.md)
     - [Create VM with static Private IP](/create-vm-with-static-private-ip%20copy.md)
     - [Create a virtual machine with both private and public IP addresses assigned to a single NIC interface](/create-vm-with-multi-static-private-and-public-IPs.md)
+    - [Create a virtual network gateway](/Create-a-route-based-VPN-gateway-using-PowerShell.md)
 
 *__[Azure Powershell Cheat sheet](/azure-powershell-cheat-sheet.md)__*
